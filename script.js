@@ -26,21 +26,21 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       title: "Lesson 4: AI-Powered Language Tutor",
-      colab: "https://colab.link/lesson2",
+      colab: "https://colab.research.google.com/drive/1-jY_UuELsohwbVz2lZtRje1enuOE0zXM?usp=sharing",
       github: "https://github.com/repo/lesson2",
       template: "https://template.com/lesson2",
       resources: "https://resources.com/lesson2",
     },
     {
       title: "Lesson 5: AI-Powered Image Generator",
-      colab: "https://colab.link/lesson2",
+      colab: "https://colab.research.google.com/drive/1pg7h4m87JIvjW_sJK9kCOSBdmKwFF_nL?usp=sharing",
       github: "https://github.com/repo/lesson2",
       template: "https://template.com/lesson2",
       resources: "https://resources.com/lesson2",
     },
     {
       title: "Lesson 6: AI-Powered Art Style Transfer",
-      colab: "https://colab.link/lesson2",
+      colab: "https://colab.research.google.com/drive/1dicRbQzkgUKtujyOKz0zFXca0twqW038?usp=sharing",
       github: "https://github.com/repo/lesson2",
       template: "https://template.com/lesson2",
       resources: "https://resources.com/lesson2",
@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     {
       title: "Lesson 7: Cat-Dog Breed Classifier",
-      colab: "https://colab.link/lesson2",
+      colab: "https://colab.research.google.com/drive/1N80u0fsRWzP_Z-jLm8Sh00BYlYdZP91y?usp=sharing",
       github: "https://github.com/repo/lesson2",
       template: "https://template.com/lesson2",
       resources: "https://resources.com/lesson2",
@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     {
       title: "Lesson 8: Real vs. AI-Generated Face Classifier",
-      colab: "https://colab.link/lesson2",
+      colab: "https://colab.research.google.com/drive/1Gr1BwdCklKtOhlUGOy8-8mGDO2v2M_u7?usp=sharing",
       github: "https://github.com/repo/lesson2",
       template: "https://template.com/lesson2",
       resources: "https://resources.com/lesson2",
