@@ -61,6 +61,136 @@ document.addEventListener('DOMContentLoaded', () => {
       template: "https://template.com/lesson2",
       resources: "https://resources.com/lesson2",
     },
+
+    {
+      title: "Lesson 9: Face Scan Pro",
+      colab: "https://colab.research.google.com/drive/1E0jFPxcFkZ4sStEymvYsfLhprV2ZKl9l?usp=sharing",
+      github: "https://github.com/repo/lesson2",
+      template: "https://template.com/lesson2",
+      resources: "https://resources.com/lesson2",
+    },
+
+    {
+      title: "Lesson 10: Sentiment Analyzer Part-1",
+      colab: "https://colab.research.google.com/drive/1BO6f3Ni7XqHs1P7utGAruZYi2BmASdAR?usp=sharing",
+      github: "https://github.com/repo/lesson2",
+      template: "https://template.com/lesson2",
+      resources: "https://resources.com/lesson2",
+    },
+
+    {
+      title: "Lesson 11: Sentiment Analyzer Part-2",
+      colab: "https://colab.research.google.com/drive/1BO6f3Ni7XqHs1P7utGAruZYi2BmASdAR?usp=sharing",
+      github: "https://github.com/repo/lesson2",
+      template: "https://template.com/lesson2",
+      resources: "https://resources.com/lesson2",
+    },
+
+    {
+      title: "Lesson 12: Show and Tell ",
+      colab: "",
+      github: "",
+      template: "",
+      resources: "",
+    },
+
+    {
+      title: "Lesson 13: Sign Language Predictor (Vs)",
+      colab: "",
+      github: "",
+      template: "https://template.com/lesson2",
+      resources: "https://resources.com/lesson2",
+    },
+
+    {
+      title: "Lesson 14: Train and Predict Part - 1 (Vs)",
+      colab: "",
+      github: "",
+      template: "https://template.com/lesson2",
+      resources: "https://resources.com/lesson2",
+    },
+
+    {
+      title: "Lesson 15: Train and Predict Part - 2 (Vs)",
+      colab: "",
+      github: "",
+      template: "https://template.com/lesson2",
+      resources: "https://resources.com/lesson2",
+    },
+
+    {
+      title: "Lesson 16: Heart Attack Prediction (Vs)",
+      colab: "",
+      github: "",
+      template: "https://template.com/lesson2",
+      resources: "https://resources.com/lesson2",
+    },
+
+    {
+      title: "Lesson 17: AI Color Quest (Vs)",
+      colab: "",
+      github: "",
+      template: "https://template.com/lesson2",
+      resources: "https://resources.com/lesson2",
+    },
+
+    {
+      title: "Lesson 18: AI Navigator Part - 1 (Vs)",
+      colab: "",
+      github: "",
+      template: "https://template.com/lesson2",
+      resources: "https://resources.com/lesson2",
+    },
+
+    {
+      title: "Lesson 19: AI Navigator Part - 2 (Vs)",
+      colab: "",
+      github: "",
+      template: "https://template.com/lesson2",
+      resources: "https://resources.com/lesson2",
+    },
+
+    {
+      title: "Lesson 20: AI Sentiment Driven Journal Part-1 (Vs)",
+      colab: "",
+      github: "",
+      template: "https://template.com/lesson2",
+      resources: "https://resources.com/lesson2",
+    },
+
+    {
+      title: "Lesson 21: AI Sentiment Driven Journal Part-2 (Vs)",
+      colab: "",
+      github: "",
+      template: "https://template.com/lesson2",
+      resources: "https://resources.com/lesson2",
+    },
+
+    {
+      title: "Lesson 22: Face Lock System Part - 1 (Vs)",
+      colab: "",
+      github: "",
+      template: "https://template.com/lesson2",
+      resources: "https://resources.com/lesson2",
+    },
+
+    {
+      title: "Lesson 23: Face Lock System Part-2 (Vs)",
+      colab: "",
+      github: "",
+      template: "https://template.com/lesson2",
+      resources: "https://resources.com/lesson2",
+    },
+
+    {
+      title: "Lesson 24: Show and Tell ",
+      colab: "",
+      github: "",
+      template: "",
+      resources: "",
+    }
+
+
     // Add more lessons here
   ];
 

@@ -1,0 +1,2 @@
+0 lefthand
+1 righthand
