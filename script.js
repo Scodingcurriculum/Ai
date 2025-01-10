@@ -95,91 +95,91 @@ document.addEventListener('DOMContentLoaded', () => {
     },
 
     {
-      title: "Lesson 13: Sign Language Predictor (Vs)",
+      title: "Lesson 13: Sign Language Predictor (Vs - Git)",
       colab: "",
-      github: "",
-      template: "https://template.com/lesson2",
-      resources: "https://resources.com/lesson2",
+      github: "https://github.com/Scodingcurriculum/Ai/blob/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson13/Sign_language_interpreter.py",
+      template: "https://github.com/Scodingcurriculum/Ai/blob/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson13/sign_language_template.py",
+      resources: "https://github.com/Scodingcurriculum/Ai/tree/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson13",
     },
 
     {
-      title: "Lesson 14: Train and Predict Part - 1 (Vs)",
+      title: "Lesson 14: Train and Predict Part - 1 (Vs - Git)",
       colab: "",
-      github: "",
+      github: "https://github.com/Scodingcurriculum/Ai/blob/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson14-15/train_and_predict.py",
       template: "https://template.com/lesson2",
-      resources: "https://resources.com/lesson2",
+      resources: "https://github.com/Scodingcurriculum/Ai/tree/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson14-15",
     },
 
     {
-      title: "Lesson 15: Train and Predict Part - 2 (Vs)",
+      title: "Lesson 15: Train and Predict Part - 2 (Vs - Git)",
       colab: "",
-      github: "",
+      github: "https://github.com/Scodingcurriculum/Ai/blob/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson14-15/train_and_predict.py",
       template: "https://template.com/lesson2",
-      resources: "https://resources.com/lesson2",
+      resources: "https://github.com/Scodingcurriculum/Ai/tree/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson14-15",
     },
 
     {
-      title: "Lesson 16: Heart Attack Prediction (Vs)",
+      title: "Lesson 16: Heart Attack Prediction (Vs - Git)",
       colab: "",
-      github: "",
-      template: "https://template.com/lesson2",
-      resources: "https://resources.com/lesson2",
+      github: "https://github.com/Scodingcurriculum/Ai/blob/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson16/heartattack_predictor.py.py",
+      template: "https://github.com/Scodingcurriculum/Ai/blob/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson16/heartattackpredictor_template.py",
+      resources: "https://github.com/Scodingcurriculum/Ai/tree/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson16",
     },
 
     {
-      title: "Lesson 17: AI Color Quest (Vs)",
+      title: "Lesson 17: AI Color Quest (Vs - Git)",
       colab: "",
-      github: "",
+      github: "https://github.com/Scodingcurriculum/Ai/blob/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson17/detectcolors.py",
       template: "https://template.com/lesson2",
-      resources: "https://resources.com/lesson2",
+      resources: "https://github.com/Scodingcurriculum/Ai/tree/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson17",
     },
 
     {
-      title: "Lesson 18: AI Navigator Part - 1 (Vs)",
+      title: "Lesson 18: AI Navigator Part - 1 (Vs - Git)",
       colab: "",
-      github: "",
+      github: "https://github.com/Scodingcurriculum/Ai/blob/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson18-19/Reinforcement.py",
       template: "https://template.com/lesson2",
-      resources: "https://resources.com/lesson2",
+      resources: "https://github.com/Scodingcurriculum/Ai/tree/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson18-19",
     },
 
     {
-      title: "Lesson 19: AI Navigator Part - 2 (Vs)",
+      title: "Lesson 19: AI Navigator Part - 2 (Vs - Git)",
       colab: "",
-      github: "",
+      github: "https://github.com/Scodingcurriculum/Ai/blob/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson18-19/Reinforcement.py",
       template: "https://template.com/lesson2",
-      resources: "https://resources.com/lesson2",
+      resources: "https://github.com/Scodingcurriculum/Ai/tree/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson18-19",
     },
 
     {
-      title: "Lesson 20: AI Sentiment Driven Journal Part-1 (Vs)",
+      title: "Lesson 20: AI Sentiment Driven Journal Part-1 (Vs - Git)",
       colab: "",
-      github: "",
+      github: "https://github.com/Scodingcurriculum/Ai/blob/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson20-21/SentimentAnalyzer.py",
       template: "https://template.com/lesson2",
-      resources: "https://resources.com/lesson2",
+      resources: "https://github.com/Scodingcurriculum/Ai/tree/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson20-21",
     },
 
     {
-      title: "Lesson 21: AI Sentiment Driven Journal Part-2 (Vs)",
+      title: "Lesson 21: AI Sentiment Driven Journal Part-2 (Vs - Git)",
       colab: "",
-      github: "",
+      github: "https://github.com/Scodingcurriculum/Ai/blob/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson20-21/SentimentAnalyzer.py",
       template: "https://template.com/lesson2",
-      resources: "https://resources.com/lesson2",
+      resources: "https://github.com/Scodingcurriculum/Ai/tree/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson20-21",
     },
 
     {
-      title: "Lesson 22: Face Lock System Part - 1 (Vs)",
+      title: "Lesson 22: Face Lock System Part - 1 (Vs - Git)",
       colab: "",
-      github: "",
+      github: "https://github.com/Scodingcurriculum/Ai/blob/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson22-23/Security_system.py",
       template: "https://template.com/lesson2",
-      resources: "https://resources.com/lesson2",
+      resources: "https://github.com/Scodingcurriculum/Ai/tree/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson22-23",
     },
 
     {
-      title: "Lesson 23: Face Lock System Part-2 (Vs)",
+      title: "Lesson 23: Face Lock System Part-2 (Vs - Git)",
       colab: "",
-      github: "",
+      github: "https://github.com/Scodingcurriculum/Ai/blob/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson22-23/Security_system.py",
       template: "https://template.com/lesson2",
-      resources: "https://resources.com/lesson2",
+      resources: "https://github.com/Scodingcurriculum/Ai/tree/308de22908cd2bf8330e7a4318766afc9f28b7ab/Vs%20Codes/Lesson22-23",
     },
 
     {
