@@ -4,42 +4,42 @@ document.addEventListener('DOMContentLoaded', () => {
   // Array of lesson details
   const lessons = [
     {
-      title: "Lesson 1: AI-Powered Real-Time Food Calorie Detector",
+      title: "Lesson 1: AI-Powered Real-Time Food Calorie Detector (Colab)",
       colab: "https://colab.research.google.com/drive/1REeBprZQTnfYETnE-CnaiTx188hANqa-?usp=sharing",
       github: "https://github.com/repo/lesson1",
       template: "https://template.com/lesson1",
       resources: "https://resources.com/lesson1",
     },
     {
-      title: "Lesson 2: AI-Powered Movie Recommendation System",
+      title: "Lesson 2: AI-Powered Movie Recommendation System (Colab)",
       colab: "https://colab.research.google.com/drive/1aA7gdc_d91Bt09RTYv5iSHIFZz7KyQRS?usp=sharing",
       github: "https://github.com/repo/lesson2",
       template: "https://template.com/lesson2",
       resources: "https://resources.com/lesson2",
     },
     {
-      title: "Lesson 3: AI-Powered Text Extractor and Summarizer",
+      title: "Lesson 3: AI-Powered Text Extractor and Summarizer (Colab)",
       colab: "https://colab.research.google.com/drive/1ITYTfkCJo14_RYxLrxPnx1KYC4CKTl9Y?usp=sharing",
       github: "https://github.com/repo/lesson2",
       template: "https://template.com/lesson2",
       resources: "https://resources.com/lesson2",
     },
     {
-      title: "Lesson 4: AI-Powered Language Tutor",
+      title: "Lesson 4: AI-Powered Language Tutor (Colab)",
       colab: "https://colab.research.google.com/drive/1-jY_UuELsohwbVz2lZtRje1enuOE0zXM?usp=sharing",
       github: "https://github.com/repo/lesson2",
       template: "https://template.com/lesson2",
       resources: "https://resources.com/lesson2",
     },
     {
-      title: "Lesson 5: AI-Powered Image Generator",
+      title: "Lesson 5: AI-Powered Image Generator (Colab)",
       colab: "https://colab.research.google.com/drive/1pg7h4m87JIvjW_sJK9kCOSBdmKwFF_nL?usp=sharing",
       github: "https://github.com/repo/lesson2",
       template: "https://template.com/lesson2",
       resources: "https://resources.com/lesson2",
     },
     {
-      title: "Lesson 6: AI-Powered Art Style Transfer",
+      title: "Lesson 6: AI-Powered Art Style Transfer (Colab)",
       colab: "https://colab.research.google.com/drive/1dicRbQzkgUKtujyOKz0zFXca0twqW038?usp=sharing",
       github: "https://github.com/repo/lesson2",
       template: "https://template.com/lesson2",
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
 
     {
-      title: "Lesson 7: Cat-Dog Breed Classifier",
+      title: "Lesson 7: Cat-Dog Breed Classifier (Colab)",
       colab: "https://colab.research.google.com/drive/1N80u0fsRWzP_Z-jLm8Sh00BYlYdZP91y?usp=sharing",
       github: "https://github.com/repo/lesson2",
       template: "https://template.com/lesson2",
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
 
     {
-      title: "Lesson 8: Real vs. AI-Generated Face Classifier",
+      title: "Lesson 8: Real vs. AI-Generated Face Classifier (Colab)",
       colab: "https://colab.research.google.com/drive/1Gr1BwdCklKtOhlUGOy8-8mGDO2v2M_u7?usp=sharing",
       github: "https://github.com/repo/lesson2",
       template: "https://template.com/lesson2",
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
 
     {
-      title: "Lesson 9: Face Scan Pro",
+      title: "Lesson 9: Face Scan Pro (Colab)",
       colab: "https://colab.research.google.com/drive/1E0jFPxcFkZ4sStEymvYsfLhprV2ZKl9l?usp=sharing",
       github: "https://github.com/repo/lesson2",
       template: "https://template.com/lesson2",
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
 
     {
-      title: "Lesson 10: Sentiment Analyzer Part-1",
+      title: "Lesson 10: Sentiment Analyzer Part-1 (Colab)",
       colab: "https://colab.research.google.com/drive/1BO6f3Ni7XqHs1P7utGAruZYi2BmASdAR?usp=sharing",
       github: "https://github.com/repo/lesson2",
       template: "https://template.com/lesson2",
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
 
     {
-      title: "Lesson 11: Sentiment Analyzer Part-2",
+      title: "Lesson 11: Sentiment Analyzer Part-2 (Colab)",
       colab: "https://colab.research.google.com/drive/1BO6f3Ni7XqHs1P7utGAruZYi2BmASdAR?usp=sharing",
       github: "https://github.com/repo/lesson2",
       template: "https://template.com/lesson2",
